@@ -1,0 +1,6 @@
+data/*
+pickled_files/*
+.ipynb_checkpoints/*
+assessments/*
+.gitattributes
+notebooks/*
